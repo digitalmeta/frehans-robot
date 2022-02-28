@@ -1,0 +1,11 @@
+:root {
+  --primary: #ee0edb;
+  --primary-text: #161515;
+  --secondary: #08e8f8;
+  --secondary-text: #837e7e;
+  --accent: #141414;
+  --accent-text: #ffffff;
+}
+.telegram{
+  color:#141414;
+}
